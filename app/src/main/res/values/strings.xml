@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WOD Clock</string>
+
+    <string translatable="false" name="amrap">AMRAP</string>
+    <string translatable="false" name="emom">EMOM</string>
+    <string translatable="false" name="tabata">Tabata</string>
+    <string translatable="false" name="for_time">For Time</string>
+    <string name="title_how_long">How long?</string>
+    <string name="action_confirm">Confirm</string>
+</resources>
